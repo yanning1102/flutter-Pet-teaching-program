@@ -1,0 +1,1 @@
+ C:\\Users\\zora9\\StudioProjects\\celebrities\\.dart_tool\\flutter_build\\0f422130891b0795ef82cb2ff932a0bd\\native_assets.yaml: 
