@@ -1,16 +1,17 @@
-# celebrities
+# Flutter Pet Teaching Program 
 
-A new Flutter project.
+這是一個結合語音合成的 Flutter 應用程式，目的是進行寵物種類與特性科普教育，讓使用者透過簡單直覺的互動方式認識各種動物。
 
-## Getting Started
+## 功能特色
 
-This project is a starting point for a Flutter application.
+- 語音搜尋：使用者可透過語音輸入來搜尋寵物種類與特性。
+- 寵物科普資訊展示：提供常見寵物的基本介紹、品種特性、飼養建議等資訊。
+- 語音朗讀：結合語音合成 API，讓 App 能夠將內容唸出來，輔助閱讀或教育展示使用。
+- Flutter 製作：跨平台支援 Android、Web 等裝置。
 
-A few resources to get you started if this is your first Flutter project:
+## 使用場景
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 親子互動教學
+- 初學者學習動物知識
+- 無障礙輔助應用（語音朗讀內容）
+- 展場／互動展示用導覽應用
